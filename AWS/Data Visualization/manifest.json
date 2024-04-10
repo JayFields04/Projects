@@ -1,0 +1,15 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "s3://Bucket-Name/Motor_Vehicle_Collisions_-_Crashes.csv"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",
+        "textqualifier": "\"",
+        "containsHeader": "true"
+    }
+ }

@@ -1,6 +1,6 @@
-# Static Website Deployment Guide
+# Static Website Deployment
 
-This guide will walk you through the process of creating a static website and hosting it using Amazon S3 and Route 53.
+These are the steps that I took in order to create a static website and host it using Amazon S3 and Route 53.
 
 ## Step #1: Purchase a Custom Domain through Amazon Route 53
 Amazon Route 53 is a highly available and scalable Domain Name System (DNS) web service. Route 53 connects user requests to internet applications running on AWS or on-premises.
