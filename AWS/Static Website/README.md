@@ -5,6 +5,7 @@ This guide will walk you through the process of creating a static website and ho
 ## Step #1: Purchase a Custom Domain through Amazon Route 53
 Amazon Route 53 is a highly available and scalable Domain Name System (DNS) web service. Route 53 connects user requests to internet applications running on AWS or on-premises.
 [Amazon Route 53 Documentation](https://docs.aws.amazon.com/route53/)
+[Introduction to Amazon Route 53](https://www.youtube.com/watch?v=RGWgfhZByAI&ab_channel=AmazonWebServices)
 
  - For this example I will be using [JayFieldsProject.click](http://jayfieldsproject.click/)
 
@@ -15,8 +16,9 @@ Amazon Route 53 is a highly available and scalable Domain Name System (DNS) web 
 ## Step #3: Set Up Amazon S3 Bucket
 Amazon S3 is an object storage service
 [Amazon S3 Documentation](https://docs.aws.amazon.com/s3/)
+[Introduction to Amazon Simple Storage Service Cloud Storage](https://www.youtube.com/watch?v=77lMCiiMilo&ab_channel=AmazonWebServices)
 
  - Here I will be enabling the Static website hosting and uploading website files to the bucket
 
 ## Resources
- - [Build with Me: Launch a website on Amazon S3 | AWS Project] ([Link to Tutorial](https://www.youtube.com/watch?v=sCQwEVhCvTg&ab_channel=TechWithLucy))
+ - [Build with Me: Launch a Website on Amazon S3] ([Link to Tutorial](https://www.youtube.com/watch?v=sCQwEVhCvTg&ab_channel=TechWithLucy))
