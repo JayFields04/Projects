@@ -6,7 +6,7 @@ This guide will walk you through the process of creating a static website and ho
 Amazon Route 53 is a highly available and scalable Domain Name System (DNS) web service. Route 53 connects user requests to internet applications running on AWS or on-premises.
 [Amazon Route 53 Documentation](https://docs.aws.amazon.com/route53/)
 
- - For this example I will be using [JayFieldsProject.click](jayfieldsproject.click)
+ - For this example I will be using [JayFieldsProject.click](http://jayfieldsproject.click/)
 
 ## Step #2: Design Your Website
 
