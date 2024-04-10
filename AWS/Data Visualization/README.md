@@ -1,6 +1,6 @@
 # Data Visualization
 
-These are the steps that I took in order to create a static website and host it using Amazon S3 and Amazon Quicksight. I am using the data set provided in the "Resources" section below, that provides information about Motor Vehicle Collisions in NYC.
+These are the steps that I took in order to create a static website and host it using Amazon S3 and Amazon Quicksight. I am using the data set provided in the "Step #1" section below, that provides information about Motor Vehicle Collisions in NYC.
 
 ## Step #1: Download the Dataset
 This is the dataset that I had used for this project.
